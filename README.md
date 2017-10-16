@@ -1,4 +1,4 @@
-#Deploy att
+## Deploy att
 Compile and deploy ATT.sol, call its generateTokens() function
 
 ## Installation
